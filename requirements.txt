@@ -17,3 +17,4 @@ dask[complete]>=2024.11.2
 pyarrow>=18.1.0
 einops>=0.8.0
 datasets>=3.1.0
+kagglehub>=0.1.4
