@@ -81,4 +81,4 @@ for i in range(len(group_positions) - 1):
 plt.tight_layout()
 
 # Save the figure
-plt.savefig(".figures/los_prediction_accuracies.png", dpi=300)
+plt.savefig("./figures/los_prediction_accuracies.png", dpi=300)
