@@ -1,3 +1,4 @@
 # Snomed_Embedding
 
-Code used for "Large Language Models are Zero-Shot Medical Knowledge Encoders"
+Code used for "Contextual description is all you need: Zero-shot medical concept embeddings using frozen
+Transformer encoders"
